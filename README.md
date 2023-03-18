@@ -1,9 +1,9 @@
 # Hi there 👋
 
 - 🇷🇺 I live in Moscow, Russia.
-- 👨‍🚒 I'm team lead of SRE at [National Track&Trace Ditial System](https://chestnyznak.ru/en).
-- 🙌 Most of the time I'm writing on Python and Go. Sometimes good old Bash.
-- ⛰️ I love observability and high availability design. They help me build stable systems.
+- 👨‍🚒 I'm leader of SRE team on Bigdata project at [National Track&Trace Digital System](https://chestnyznak.ru/en).
+- 🙌 Most of the time I'm writing on Python and Go. Sometimes I use old good Bash.
+- ⛰️ Observability and high availability design is my power.
 
 
 <!--
